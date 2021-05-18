@@ -317,10 +317,12 @@
     transition: all 0.4s;
 }
 .back-to-top i {
-    font-size: 24px;
+    font-size: 18px;
     color: #fff;
-    line-height: 0;
 }
-
+#right-icon a {
+    color: #3acf87;
+    text-decoration: underline;
+}
  
 
