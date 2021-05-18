@@ -222,6 +222,9 @@
 .resume .resume-item ul {
     padding-left: 20px;
 }
+#contact {
+    margin: 40px 0px;
+}
 .contact .info i {
     font-size: 20px;
     background: #3acf87;
