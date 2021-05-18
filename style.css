@@ -32,6 +32,27 @@
     color: #666;
     line-height: 28px
 }
+#footer {
+    font-size: 14px;
+    background: #37517e;
+}
+#footer .footer-bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+#footer .copyright {
+    float: left;
+}
+#footer .credits {
+    float: right;
+    font-size: 13px;
+}
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+}
 
 .counter-box.colored {
     background: #3acf87
